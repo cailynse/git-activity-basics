@@ -1,0 +1,4 @@
+hello
+This is a text file
+I am learning about Git.
+This activity is about learning Git commands.
